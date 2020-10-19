@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/dogs/static/css/main.72cf1a23.chunk.css",
+    "main.js": "/dogs/static/js/main.9a06b72b.chunk.js",
+    "main.js.map": "/dogs/static/js/main.9a06b72b.chunk.js.map",
+    "runtime-main.js": "/dogs/static/js/runtime-main.2710955e.js",
+    "runtime-main.js.map": "/dogs/static/js/runtime-main.2710955e.js.map",
+    "static/js/2.89a1a869.chunk.js": "/dogs/static/js/2.89a1a869.chunk.js",
+    "static/js/2.89a1a869.chunk.js.map": "/dogs/static/js/2.89a1a869.chunk.js.map",
+    "static/js/3.972412f9.chunk.js": "/dogs/static/js/3.972412f9.chunk.js",
+    "static/js/3.972412f9.chunk.js.map": "/dogs/static/js/3.972412f9.chunk.js.map",
+    "static/css/4.4e6f6593.chunk.css": "/dogs/static/css/4.4e6f6593.chunk.css",
+    "static/js/4.6a4516ce.chunk.js": "/dogs/static/js/4.6a4516ce.chunk.js",
+    "static/js/4.6a4516ce.chunk.js.map": "/dogs/static/js/4.6a4516ce.chunk.js.map",
+    "index.html": "/dogs/index.html",
+    "precache-manifest.ee86dd30ee13e4621a4c2eae37d92144.js": "/dogs/precache-manifest.ee86dd30ee13e4621a4c2eae37d92144.js",
+    "service-worker.js": "/dogs/service-worker.js",
+    "static/css/4.4e6f6593.chunk.css.map": "/dogs/static/css/4.4e6f6593.chunk.css.map",
+    "static/css/main.72cf1a23.chunk.css.map": "/dogs/static/css/main.72cf1a23.chunk.css.map",
+    "static/js/3.972412f9.chunk.js.LICENSE.txt": "/dogs/static/js/3.972412f9.chunk.js.LICENSE.txt",
+    "static/media/adicionar.4a6d6ceb.svg": "/dogs/static/media/adicionar.4a6d6ceb.svg",
+    "static/media/dogs-footer.8cc31290.svg": "/dogs/static/media/dogs-footer.8cc31290.svg",
+    "static/media/dogs.849a6443.svg": "/dogs/static/media/dogs.849a6443.svg",
+    "static/media/enviar.26c6de43.svg": "/dogs/static/media/enviar.26c6de43.svg",
+    "static/media/estatisticas.5b48807f.svg": "/dogs/static/media/estatisticas.5b48807f.svg",
+    "static/media/feed.35f798d0.svg": "/dogs/static/media/feed.35f798d0.svg",
+    "static/media/Login.module.css": "/dogs/static/media/login.824d7d85.jpg",
+    "static/media/sair.4175ea72.svg": "/dogs/static/media/sair.4175ea72.svg",
+    "static/media/Header.module.css": "/dogs/static/media/usuario.dc442992.svg",
+    "static/media/PhotoContent.module.css": "/dogs/static/media/visualizacao-black.957befc3.svg",
+    "static/media/FeedPhotosItem.module.css": "/dogs/static/media/visualizacao.4ce15ed8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2710955e.js",
+    "static/js/3.972412f9.chunk.js",
+    "static/css/main.72cf1a23.chunk.css",
+    "static/js/main.9a06b72b.chunk.js"
+  ]
+}

@@ -1,0 +1,12 @@
+.wrapper {
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--type-second);
+}
+
+.wrapper p {
+  font-size: 1.2rem;
+}

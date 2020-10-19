@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/dogs/static/css/main.72cf1a23.chunk.css",
-    "main.js": "/dogs/static/js/main.eb29b091.chunk.js",
-    "main.js.map": "/dogs/static/js/main.eb29b091.chunk.js.map",
+    "main.js": "/dogs/static/js/main.543340ca.chunk.js",
+    "main.js.map": "/dogs/static/js/main.543340ca.chunk.js.map",
     "runtime-main.js": "/dogs/static/js/runtime-main.2710955e.js",
     "runtime-main.js.map": "/dogs/static/js/runtime-main.2710955e.js.map",
     "static/js/2.89a1a869.chunk.js": "/dogs/static/js/2.89a1a869.chunk.js",
     "static/js/2.89a1a869.chunk.js.map": "/dogs/static/js/2.89a1a869.chunk.js.map",
-    "static/js/3.38a004f3.chunk.js": "/dogs/static/js/3.38a004f3.chunk.js",
-    "static/js/3.38a004f3.chunk.js.map": "/dogs/static/js/3.38a004f3.chunk.js.map",
+    "static/js/3.972412f9.chunk.js": "/dogs/static/js/3.972412f9.chunk.js",
+    "static/js/3.972412f9.chunk.js.map": "/dogs/static/js/3.972412f9.chunk.js.map",
     "static/css/4.4e6f6593.chunk.css": "/dogs/static/css/4.4e6f6593.chunk.css",
     "static/js/4.6a4516ce.chunk.js": "/dogs/static/js/4.6a4516ce.chunk.js",
     "static/js/4.6a4516ce.chunk.js.map": "/dogs/static/js/4.6a4516ce.chunk.js.map",
     "index.html": "/dogs/index.html",
-    "precache-manifest.b2148c0f776eb95baf4e6536f2fbdc9e.js": "/dogs/precache-manifest.b2148c0f776eb95baf4e6536f2fbdc9e.js",
+    "precache-manifest.da62a22dd4093ce256f36873671ef1d5.js": "/dogs/precache-manifest.da62a22dd4093ce256f36873671ef1d5.js",
     "service-worker.js": "/dogs/service-worker.js",
     "static/css/4.4e6f6593.chunk.css.map": "/dogs/static/css/4.4e6f6593.chunk.css.map",
     "static/css/main.72cf1a23.chunk.css.map": "/dogs/static/css/main.72cf1a23.chunk.css.map",
-    "static/js/3.38a004f3.chunk.js.LICENSE.txt": "/dogs/static/js/3.38a004f3.chunk.js.LICENSE.txt",
+    "static/js/3.972412f9.chunk.js.LICENSE.txt": "/dogs/static/js/3.972412f9.chunk.js.LICENSE.txt",
     "static/media/adicionar.4a6d6ceb.svg": "/dogs/static/media/adicionar.4a6d6ceb.svg",
     "static/media/dogs-footer.8cc31290.svg": "/dogs/static/media/dogs-footer.8cc31290.svg",
     "static/media/dogs.849a6443.svg": "/dogs/static/media/dogs.849a6443.svg",
@@ -32,8 +32,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2710955e.js",
-    "static/js/3.38a004f3.chunk.js",
+    "static/js/3.972412f9.chunk.js",
     "static/css/main.72cf1a23.chunk.css",
-    "static/js/main.eb29b091.chunk.js"
+    "static/js/main.543340ca.chunk.js"
   ]
 }

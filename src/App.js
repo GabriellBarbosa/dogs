@@ -28,7 +28,7 @@ function App() {
           <main className="AppBody">
             <Routes>
               <Route path="/" element={<Home />} />
-              <Route path="dogs/" element={<Home />} />
+              <Route path="/dogs" element={<Home />} />
               <Route path="dogs/login/*" element={<Login />} />
               <ProtectedRoute path="dogs/conta/*" element={<User />} />
               <Route path="dogs/foto/:id" element={<Photo />} />
